@@ -24,3 +24,12 @@ if (age <= 10) {
 for (age =10; age => 15; age++);{
     alert('heiii')
 };
+
+
+    
+let number = 5;
+
+while (number <= 10) {
+    console.log(number);
+    number++;
+};
