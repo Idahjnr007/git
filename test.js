@@ -19,3 +19,8 @@ if (age <= 10) {
 } else {
     console.log('I need to grow up');
 }
+
+
+for (age =10; age => 15; age++);{
+    alert('heiii')
+};
